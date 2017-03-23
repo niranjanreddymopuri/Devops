@@ -1,0 +1,10 @@
+# Devops
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Ansible_Git</h1>
+<p>MyWelcome.</p>
+
+</body>
+</html>
